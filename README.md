@@ -1,1 +1,1 @@
-# automatizaci-n-institucional-de-gesti-n-de-correos
+# automatizacion-institucional-de-gestion-de-correos
